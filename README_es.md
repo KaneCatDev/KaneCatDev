@@ -97,7 +97,7 @@ Incluye autenticación, gestión de usuarios, gestión de archivos y previsualiz
 
 **Tecnologías:** React · TypeScript · Node.js · Express · SQLite · Docker · Cloudflare
 
-🌐 [Hellies Cloud](https://hellies.kanecat.dev/)
+🌐 [Ver en mi portfolio](https://kanecat.dev/projects/hellies-cloud)
 
 ---
 
@@ -111,7 +111,7 @@ También creo y adapto recursos y entornos 3D utilizando Blender.
 
 **Tecnologías:** Unity · C# / UdonSharp · VRChat SDK · Blender · Substance 3D Painter
 
-🌐 [Ver en mi portfolio](https://kanecat.dev/)
+🌐 [Ver en mi portfolio](https://kanecat.dev/projects/mapa-hellies-bar)
 
 ---
 
